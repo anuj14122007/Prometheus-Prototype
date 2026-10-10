@@ -1,0 +1,6 @@
+{
+  "name": "PROMETHEUS — Autonomous Scientific Discovery Engine",
+  "description": "An autonomous scientific research loop prototype: hypotheses are proposed, computational tools execute tests, results are recorded into research memory, and prior evidence guides the next experiment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
